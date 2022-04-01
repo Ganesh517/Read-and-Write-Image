@@ -1,3 +1,4 @@
+
 ## ****READ AND WRITE AN IMAGE**** ##
 
 
@@ -90,9 +91,12 @@ plt.imshow(color_image)
 ```
 
 ## **OUT PUT**:
-**i) Read and display the image**
+***i) Read and display the image***
+
+
 
 __![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/colo.png)__
+
 
 __![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/gray.png)__
 
@@ -107,8 +111,9 @@ __![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/shap
 
 **iv)Access rows and columns**
 
-__![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/tag.png)__
+__![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/rows.png)__
 
+__![Image Link](https://github.com/Ganesh517/Read-and-Write-Image/blob/main/coloum.png)__
 
 
 **v)Cut and paste portion of image**
